@@ -1,0 +1,281 @@
+
+/***Navbar ***/
+
+@media(max-width:991px){
+	.navbar-menu li a{
+		padding-right:2px;
+	}
+}
+
+@media(max-width:991px)
+{
+
+.login form
+{
+float:none;
+padding-left:100px;
+}
+
+.logo
+
+{
+text-align:center;
+}
+
+
+.right-text h2
+{
+	
+	text-align:center;
+}
+
+.right-text p
+{
+	margin:0 auto;
+	margin-bottom:20px;
+}
+
+.sign-up
+{
+	
+	padding-top:10px;
+}
+
+
+
+}
+
+
+@media(max-width:767px)
+{
+	
+	
+.login form
+{
+
+padding-left:0px;
+}
+
+
+.button
+{
+display:block;
+margin:0 auto;
+}
+
+.sign-up
+{
+	
+	padding-top:20px;
+}	
+	
+}
+
+
+
+/*This Media Query Is For Comment Iframe Only START */
+
+@media (max-width:453px)
+{
+
+.col-xs-10.comment-by
+{
+	padding-left:25px;
+}
+
+
+
+}
+
+
+/*This Media Query Is For Comment Iframe Only END */
+
+
+
+@media(max-width:1200px)
+{
+	
+	
+.post-exp .exp-by
+{
+	
+	padding-left:20px;
+}
+
+
+.profile_pic img
+{
+	
+ 
+height:250px;
+}
+
+
+
+}
+
+@media (max-width:992px)
+{
+
+
+.panel_more .text-left
+{
+    text-align:center !important;
+   
+    
+}
+
+.navbar-form
+{
+float:none;
+}
+
+.post-exp .exp-by
+{
+	
+	padding-left:30px;
+}
+
+
+.profile_pic img
+{
+	
+height:200px;
+}
+
+.navbar-form .form-control 
+{
+
+   width: 20%;
+}
+
+}
+
+
+@media (max-width:768px)
+{
+	
+.navbar-form .form-control 
+{
+
+   width: 100%;
+}
+
+.search.btn
+{
+	
+	display:block;
+	margin:0 auto;
+	
+}
+	
+.profile_pic img
+{
+	
+border-radius:100px;
+width:200px;
+height:200px;
+}
+
+.profile_pic img
+
+{
+	display:block;
+	margin:5px auto;
+}
+
+
+.profile_pic
+{
+	background:rgb(150,150,150);
+}
+
+.form-horizontal .control-label {
+    padding-top: 7px;
+    margin-bottom: 0;
+    text-align: right;
+  }
+  
+}
+
+
+@media (max-width: 768px) {
+  .navbar-toggle {
+    display: none;
+  }
+}
+
+
+@media (min-width: 768px) {
+  .navbar-icons {
+    display: none;
+  }
+  
+ #setting
+{
+	
+	display:none;
+}
+
+
+.navbar-nav.set
+{
+		display:none;
+}
+}
+
+@media (max-width: 520px) {
+	
+	
+  .navbar-icons {
+	float:none;
+	display:table;
+	margin:0 auto;
+  }
+  
+  .icon-nav
+  {
+	  padding-right:40px;
+  }
+  
+  .navbar-brand
+  {
+	  float:none;
+	  display:none;
+	  margin:0 auto;
+	  font-size:120%;
+	  
+	  
+	  
+	  
+  }
+}
+
+@media (max-width: 360px) 
+	{
+		.icon-nav
+		{
+			padding-right:29px !important;
+		}
+		
+
+
+		
+	}
+	
+
+/***Styling Comment Box***/
+	
+@media (max-width: 450px) 
+{
+	.modal-comment-txtarea
+	{
+		padding-left:35px;
+	}
+	
+	.modal-comment-btn
+	{
+		left:17px;
+	}
+
+}

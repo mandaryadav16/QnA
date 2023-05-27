@@ -1,0 +1,157 @@
+body {
+	padding-top: 50px;
+	background-color: rgb(111, 243, 210);
+	
+}
+
+.without-jumbo {
+	padding-top: 30px;
+}
+
+h3{
+	font-weight: bold;
+}
+
+p {
+
+	font-family: 'Roboto', sans-serif;
+	
+}
+
+a {
+	text-decoration: none !important;
+}
+
+
+.navbar-form {
+	float: right;
+
+}
+
+
+.top-nav {
+	background: #337ab7 !important;
+	color: white !important;
+	font-family: 'Montserrat', sans-serif;
+	font-size: larger;
+	font-weight: bolder;
+
+
+
+}
+
+.top-nav a {
+	color: white !important;
+}
+
+.top {
+	margin-left: 240px;
+}
+
+.dropdown-menu a {
+	color: black !important;
+}
+
+
+.top {
+	margin-left: 240px;
+}
+
+.dropdown {
+	position: relative;
+	display: grid;
+}
+
+.dropdown-menu {
+
+	position: absolute;
+	left: -70px;
+	width: 180px;
+}
+
+.list-group-item {
+
+	border: 1px solid rgb(0, 0, 0);
+	padding: 15px 15px;
+	background-color: rgb(120, 255, 255);
+
+
+}
+
+
+.navbar-icons {
+	margin: 0 auto;
+	float: right;
+
+}
+
+.icon-nav {
+
+	padding-left: 8px;
+	font-size: 40px;
+	padding-top: 10px;
+	box-sizing: border-box;
+
+}
+
+.not {
+	padding-left: 40px;
+}
+
+/***Main Navbar***/
+
+/* Navbar Sidebar */
+.navbar-side {
+	float: right;
+}
+
+.navbar-side form {
+	float: left;
+}
+
+.dropdown img {
+	margin-top: 4px;
+}
+
+.dropdown .list-group a span {
+	margin-right: 7px;
+	font-size: 13px;
+}
+
+/* Account Setting*/
+#setting {
+	margin-top: 10px;
+}
+
+
+/**Main Index Page ***/
+
+/* JumboTron */
+
+.jumbo {
+	padding-top: 80px;
+	background-color: aqua;
+}
+
+.jumbo h1 {
+	font-size: 280%;
+	font-weight: bolder;
+	margin-bottom: 20px;
+	font-family: 'Montserrat', sans-serif;
+	
+
+}
+
+.jumbo .lead {
+	font-size: 160%;
+	margin-bottom: 30px;
+}
+
+.jumbo .button {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.row{
+	background-image: url("2.jpg");
+}
